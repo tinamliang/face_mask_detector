@@ -11,10 +11,7 @@ This face mask detector can be tested using your computer's webcam. The model ge
 
 ---
 
----
-
 <p align="center">
   <img src="demo.gif" alt="animated" />
 </p>
 
----
