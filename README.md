@@ -1,6 +1,6 @@
 # Face Mask Detector 
 
-The dataset that's split into **no mask** and **mask** is found here: https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset
+The training dataset that's split into **no mask** and **mask** is found here: https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset
 
 
 ### Project Description
