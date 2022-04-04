@@ -11,3 +11,12 @@ This face mask detector can be tested using your computer's webcam. The model ge
 
 ---
 
+### Demo
+
+---
+
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
+
+---
